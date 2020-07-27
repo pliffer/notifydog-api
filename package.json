@@ -1,0 +1,12 @@
+{
+  "name": "api-notifydog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api-notifydog.js",
+  "keywords": [],
+  "author": "Pliffer",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
